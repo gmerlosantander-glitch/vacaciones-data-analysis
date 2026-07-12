@@ -13,7 +13,7 @@ Este repositorio contiene mis primeros proyectos de análisis de datos utilizand
 Análisis exploratorio completo de un dataset de ventas internacionales. Se identificaron tendencias de ventas, categorías más rentables, patrones por región y se generaron insights accionables.
 
 **Tecnologías utilizadas**:
-- **Python**
+- Py (Python)
 - Pandas
 - Matplotlib y Seaborn
 - Jupyter Notebook
