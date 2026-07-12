@@ -3,7 +3,7 @@
 **Gabriela Merlo Santander**  
 Estudiante de **Data Analytics & IA** | AI Data Annotator | Virtual Assistant
 
-Este repositorio contiene mis primeros proyectos de análisis de datos utilizando Python.
+Este repositorio contiene mis primeros proyecto de análisis de datos utilizando Python.
 
 ## Proyectos
 
