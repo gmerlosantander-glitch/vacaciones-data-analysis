@@ -3,7 +3,7 @@
 **Gabriela Merlo Santander**  
 Estudiante de **Data Analytics & IA** | AI Data Annotator | Virtual Assistant
 
-Este repositorio contiene mis primeros proyecto de análisis de datos utilizando Python.
+Este repositorio contiene mis primeros proyectos de análisis de datos utilizando **Python**.
 
 ## Proyectos
 
@@ -13,7 +13,7 @@ Este repositorio contiene mis primeros proyecto de análisis de datos utilizando
 Análisis exploratorio completo de un dataset de ventas internacionales. Se identificaron tendencias de ventas, categorías más rentables, patrones por región y se generaron insights accionables.
 
 **Tecnologías utilizadas**:
-- Python
+- **Python**
 - Pandas
 - Matplotlib y Seaborn
 - Jupyter Notebook
@@ -24,7 +24,7 @@ Análisis exploratorio completo de un dataset de ventas internacionales. Se iden
 
 ## Habilidades Técnicas
 - Análisis Exploratorio de Datos (EDA)
-- Limpieza de datos
+- Limpieza y transformación de datos
 - Visualización de datos
 - Git y GitHub
 
